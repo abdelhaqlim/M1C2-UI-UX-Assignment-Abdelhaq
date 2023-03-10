@@ -1,0 +1,37 @@
+/* Task One: low-fidelity wireframe. */
+
+.low-Fidelity {
+  height: 400px;
+  width: 400px;
+  display: flex;
+  margin: 40px;
+}
+.low-Fidelity .codepen img {
+  display: flex;
+  height: 400px;
+  align-items: center;
+  margin-right: 20px;
+  background-size: cover;
+  justify-content: space-between;
+}
+/* Task Two:  . */
+.cuadrado {
+  display: flex;
+  margin-left: 70px;
+  margin-top: 40px;
+}
+.cuadrado1 {
+  height: 40px;
+  width: 160px;
+  background-color: #f0f0e8;
+}
+.cuadrado2 {
+  height: 40px;
+  width: 160px;
+  background-color: #808080;
+}
+.cuadrado3 {
+  height: 40px;
+  width: 160px;
+  background-color: #000000;
+}
