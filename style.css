@@ -17,10 +17,80 @@
 /* Task Two:  . */
 .cuadrado {
   display: flex;
-  margin-left: 70px;
-  margin-top: 40px;
+  margin: 70px;
 }
+span {
+  height: 40px;
+  width: 160px;
+}
+/* 1 */
 .cuadrado1 {
+  background-color: #f0f0e8;
+}
+.cuadrado2 {
+  background-color: #808080;
+}
+.cuadrado3 {
+  background-color: #000000;
+}
+/* 2 */
+.cuadrado4 {
+  background-color: #f1f8fa;
+}
+.cuadrado5 {
+  background-color: #808080;
+}
+.cuadrado6 {
+  background-color: #000000;
+}
+
+/* 3 */
+.cuadrado7 {
+  background-color: #452bc7;
+}
+.cuadrado8 {
+  background-color: #ffcd00;
+}
+.cuadrado9 {
+  background-color: #000000;
+}
+
+/* 4 */
+.cuadrado10 {
+  background-color: #01ffe9;
+}
+.cuadrado11 {
+  background-color: #4b4a4a;
+}
+.cuadrado12 {
+  background-color: #000000;
+}
+
+/* .cuadrado1 p {
+  display: flex;
+  height: 40px;
+  width: 160px;
+} */
+/* .cuadrado2 {
+  height: 40px;
+  width: 160px;
+}
+.cuadrado3 {
+  height: 40px;
+  width: 160px;
+} */
+/* 
+.cuadrado1 p:nth-child(1) {
+  background-color: #f0f0e8;
+}
+.cuadrado1 p:nth-child(2) {
+  background-color: #808080;
+}
+.cuadrado1 p:nth-child(3) {
+  background-color: #000000;
+} */
+/* https://timmyomahony.com */
+/* .cuadrado1 {
   height: 40px;
   width: 160px;
   background-color: #f0f0e8;
@@ -34,9 +104,9 @@
   height: 40px;
   width: 160px;
   background-color: #000000;
-}
-
-.cuadrado4 {
+} */
+/* https://sebkay.com/*/
+/* .cuadrado4 {
   height: 40px;
   width: 160px;
   background-color: #f1f8fa;
@@ -50,4 +120,20 @@
   height: 40px;
   width: 160px;
   background-color: #000000;
+} */
+/* https://jonny.me/*/
+/* .cuadrado7 {
+  height: 40px;
+  width: 160px;
+  background-color: #452bc7;
 }
+.cuadrado8 {
+  height: 40px;
+  width: 160px;
+  background-color: #ffcd00;
+}
+.cuadrado9 {
+  height: 40px;
+  width: 160px;
+  background-color: #000000;
+}   */
